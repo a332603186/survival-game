@@ -1,0 +1,4 @@
+5
+1
+1
+cbsf Tree;debcf Log.1;epsi Axe;eugf MayaCutTree;mspl Cut Tree;dmspl Tree Fall.1;cbsf BoneHeap;debcf Bone.1;epsi Axe;eugf MayaCutTree;mspl Break Stone;dmspl Stone Break.1

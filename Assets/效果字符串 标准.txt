@@ -1,0 +1,22 @@
+效果函数及参数标准:
+0123456789ABCDEFG          效果                                 示例                 解释
+enul                       无                                   enul                 无交互效果
+ebct xxx                   将玩家所在的Block替换为xxx           ebct Air             将玩家所在的block替换为Air
+ebcf xxx                   将玩家面对的block替换为xxx           ebcf Air             将玩家面对的block替换为Air  
+epgi xxx                   玩家得到xxx(item)                    epgi Carrot          玩家得到Carrot
+epsi xxx                   玩家的xxx(item)数量-1                epsi Carrot          玩家Carrot数量-1
+ephp xxx                   玩家的hp = hp + xxx                  ephp -10             玩家hp - 10
+epsp xxx                   玩家的sp = sp + xxx                  epsp 10              玩家sp + 10
+epmb xxx,yyy               玩家的pos+(xxx,yyy)
+epmt xxx,yyy               玩家的pos=(xxx,yyy)
+epca xxx,yyy               玩家近身攻击xxx(伤害),yyy(1/2距离) 
+eptt xxx                   将玩家转移至xxx(environment)
+eugt xxx                   在玩家所在位置创建xxx(unit)          
+eugf xxx                   在玩家面对位置创建xxx(unit)
+euga xxx,yyy,zzz           在像素位置yyy,zzz创建xxx
+euio xxx                   开/关显示xxx(ui)ui
+mmpl xxx                   播放xxx(music)                       mmpl 1               播放Music/1.mp3
+mspl xxx                   播放xxx(sound)                       mspl 1               播放Sound/1.ogg
+sxxxx yyy.zzz              每秒执行"xxxx yyy" 共zzz秒           sephp 10,3           玩家的hp + 10 执行3次 每秒一次
+fxxxx yyy.zzz              每帧执行"xxxx yyy" 共zzz帧           feshp 10,3           玩家的sp + 10 执行3次 每帧一次
+dxxxx yyy.zzz              延迟zzz * 10帧执行"xxxx yyy"

@@ -1,0 +1,6 @@
+Flint
+Twig
+Nothing
+Nothing
+Arrow
+cpbs BuildingCraftingTable

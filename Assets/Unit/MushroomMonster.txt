@@ -1,0 +1,7 @@
+0
+6
+play_loop_by_face;del_by_hp;knock_off_player;move_to_player;attack_by_knock;random_move
+50
+50
+0
+nul

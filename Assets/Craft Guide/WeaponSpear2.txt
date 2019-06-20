@@ -1,0 +1,6 @@
+GoldenGem
+ShadowGem
+ShadowGem
+Flint
+WeaponSpear2
+cpbs BuildingForgingTable

@@ -1,0 +1,6 @@
+Flint
+Rock
+Rock
+Nothing
+WeaponKnife2
+cpbs BuildingForgingTable

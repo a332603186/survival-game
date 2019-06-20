@@ -1,0 +1,7 @@
+0
+8
+one_time_maya;attack_q_table;knock_off_player_from_point;attack_by_knock
+30
+25
+0
+enul

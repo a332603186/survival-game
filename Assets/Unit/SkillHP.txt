@@ -1,0 +1,7 @@
+0
+13
+one_time_maya_fast;set_at_player
+50
+50
+0
+enul

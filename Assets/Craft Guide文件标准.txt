@@ -1,0 +1,6 @@
+材料1(str(item))
+材料2(str(item))
+材料3(str(item))
+材料4(str(item))
+合成结果(str(item))
+条件函数及参数(str)

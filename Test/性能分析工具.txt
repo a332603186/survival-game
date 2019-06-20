@@ -1,0 +1,2 @@
+cd E:\±à³Ì\Projects\PygameÏîÄ¿
+python -m cProfile -s cumulative game.py

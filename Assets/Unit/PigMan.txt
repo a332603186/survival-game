@@ -1,0 +1,7 @@
+0
+12
+play_loop_by_face;del_by_hp;knock_off_player;move_boss;attack_by_knock;random_move;skill_use
+50
+50
+0
+nul

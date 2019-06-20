@@ -1,0 +1,7 @@
+0
+9
+fire_surround_blast
+50
+50
+0
+enul

@@ -1,0 +1,4 @@
+5
+1
+1
+cbsf GoldStone;debcf Gold.1;epsi Pickaxe;eugf MayaCutTree;mspl Break Stone;dmspl Stone Break.1;cbsf ClayStone;debcf Clay.1;epsi Pickaxe;eugf MayaCutTree;mspl Break Stone;dmspl Stone Break.1

@@ -1,0 +1,7 @@
+0
+27
+one_time_maya_fast;attack_q_table;knock_off_player;move_to_player;attack_by_knock
+50
+50
+0
+enul

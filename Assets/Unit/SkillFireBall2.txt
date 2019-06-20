@@ -1,0 +1,7 @@
+0
+6
+play_loop_fast;attack_q_table;knock_off_player_from_point;move_to_player;attack_by_knock_and_del;del_by_frames
+50
+50
+0
+enul

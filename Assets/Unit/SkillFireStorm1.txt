@@ -1,0 +1,7 @@
+0
+6
+fire_storm
+50
+50
+0
+enul

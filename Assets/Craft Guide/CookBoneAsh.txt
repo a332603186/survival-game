@@ -1,0 +1,6 @@
+RedMushroom
+BlueMushroom
+Bone
+Bone
+CookBoneAsh
+cpbs BuildingPot

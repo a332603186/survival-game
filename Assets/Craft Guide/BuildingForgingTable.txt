@@ -1,0 +1,6 @@
+GoldenGem
+Rock
+Rock
+Clay
+BuildingForgingTable
+cpbs CraftingTable

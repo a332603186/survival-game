@@ -1,0 +1,6 @@
+Log
+Clay
+Rock
+Rock
+Pot
+cpbs BuildingCraftingTable

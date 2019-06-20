@@ -1,0 +1,7 @@
+0
+10
+small_fire
+50
+50
+0
+enul

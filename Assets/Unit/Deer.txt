@@ -1,0 +1,7 @@
+0
+12
+play_loop_by_face;del_by_hp;random_move
+50
+50
+0
+nul

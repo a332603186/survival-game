@@ -1,0 +1,7 @@
+0
+10
+map_fire_2;attack_q_table;del_by_frames;move_by;attack_by_knock_and_del
+25
+25
+0
+enul

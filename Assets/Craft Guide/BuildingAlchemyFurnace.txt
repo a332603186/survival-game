@@ -1,0 +1,6 @@
+BoneAsh
+GoldenGem
+Paper
+ShadowGem
+BuildingAlchemyFurnace
+cpbs BuildingForgingTable

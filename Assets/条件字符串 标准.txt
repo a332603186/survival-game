@@ -1,0 +1,8 @@
+条件及参数标准:
+0123456789ABCDEFG          条件                      示例            解释  
+cnul                       无                        cnul            无条件成立
+cphi xxx                   玩家有xxx(item)           cphi Carrot     如果玩家有胡萝卜
+cpbs xxx                   玩家位置block是xxx        cpbs Air        玩家位置block是Air
+cpbf xxx                   玩家面对block是xxx        cpbf Air        玩家面对block是Air
+cbsc xxx                   玩家位置block名称包含xxx  cbsc Tree       玩家位置block名称包含Tree
+cbfc xxx                   玩家面对block名称包含xxx  cbfc Tree       玩家面对block名称包含Tree

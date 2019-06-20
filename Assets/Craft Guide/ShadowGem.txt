@@ -1,0 +1,6 @@
+Gold
+Bone
+Clay
+Log
+ShadowGem
+cpbs BuildingForgingTable

@@ -1,0 +1,7 @@
+0
+15
+one_time_maya
+50
+50
+0
+nul

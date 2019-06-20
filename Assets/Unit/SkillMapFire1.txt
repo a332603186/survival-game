@@ -1,0 +1,7 @@
+0
+18
+play_loop_fast;del_by_frames;map_fire_1
+50
+50
+0
+enul
